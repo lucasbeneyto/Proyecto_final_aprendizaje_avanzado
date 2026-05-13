@@ -1,0 +1,19 @@
+# Core data science
+numpy==1.26.4
+pandas==2.2.2
+scipy==1.12.0
+
+# Machine learning
+scikit-learn==1.5.1
+joblib==1.5.3
+
+# Visualization
+matplotlib
+seaborn
+
+# Explainability
+shap==0.46.0
+
+# Notebooks
+jupyter
+ipykernel
