@@ -54,11 +54,10 @@ Proyecto_final_aprendizaje_avanzado/
 │   ├── preprocessing.py
 │   ├── train.py
 │   ├── evaluate.py
-
-
 │   ├── explain.py
 │   └── fairness.py
 │
+├── INFORME_GUIA.md
 ├── requirements.txt
 └── README.md
 ```
