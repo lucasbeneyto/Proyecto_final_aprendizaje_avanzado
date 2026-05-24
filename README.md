@@ -254,6 +254,6 @@ La principal utilidad del sistema sería servir como herramienta de apoyo para d
 
 ## Integrantes
 
-- Lucas Benito
+- Lucas Beneyto
 - Pablo Candela
 - Alexander Herasimovich
